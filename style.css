@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  font-family: Courier;
+}
+
+.title {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  font-size: 25px;
+}
+.aciklama {
+  text-indent: 1cm;
+  font-size: 13px;
+  color: white;
+}
+.question {
+  text-indent: 1cm;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+.answer1 {
+  color: white;
+  background-color: rgb(0, 7, 109);
+  font-size: 13px;
+}
+.answer2 {
+  color: white;
+  background-color: rgb(12, 89, 190);
+  font-size: 13px;
+}
+.dugme-1 {
+  color: white;
+  background-color: red;
+}
+.dugme-2{
+  color: white;
+  background-color: rgb(68, 211, 68);
+}
